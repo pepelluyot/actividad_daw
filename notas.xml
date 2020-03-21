@@ -11,5 +11,7 @@
     <modulo siglas="BD">
         <nota codAlumno="AA132">5.10</nota>
         <nota codAlumno="OO987">9.65</nota>
+        <nota codAlumno="CD641">7.25</nota>
+        <nota codAlumno="FF101">5.5</nota>
     </modulo>
 </notas>
