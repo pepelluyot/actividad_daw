@@ -1,2 +1,4 @@
 # actividad DAW
-Hola a todos.
+Tarea para realizar DAW
+Ejemplo de repositorio
+
