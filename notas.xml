@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notas>
+    <modulo siglas="LM">
+        <nota codAlumno="AA132">4.56</nota>
+        <nota codAlumno="VF133">8.98</nota>
+        <nota codAlumno="DS554">3.65</nota>
+    </modulo>
+    <modulo siglas="BD">
+        <nota codAlumno="AA132">5.10</nota>
+        <nota codAlumno="OO987">9.65</nota>
+    </modulo>
+</notas>
